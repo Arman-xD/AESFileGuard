@@ -23,6 +23,7 @@ How to use
 2. **Install Cryptography Library:**
    - Open a terminal or command prompt.
    - Run the following command to install the required Python cryptography library:
+   
      pip install cryptography
     
 ## How to Use
